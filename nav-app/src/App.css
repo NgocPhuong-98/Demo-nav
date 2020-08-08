@@ -1,0 +1,21 @@
+.main-route-place {
+  border: 1px solid  #bb8fce;
+  margin:3px;
+  padding: 5px;
+  color: black;
+}
+.container{
+  padding: 100px;
+}
+.secondary-route-place {
+  border: 1px solid #a2d9ce;
+  margin: 5px;
+  padding: 5px;
+}
+a{
+  color: black;
+  text-decoration: none;
+}
+a:hover{
+  color: #bb8fce;
+}
